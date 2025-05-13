@@ -105,20 +105,20 @@ border-radius: 5px;
   max-width: 98%;
 }
 .education{
-  width: 100%;
+  max-width: 93%;
   /* background-color: red; */
   margin-left: 10px;
   color: white;
 }
 .general-info{
-  width: 100%;
+  max-width: 93%;
   /* background-color: red; */
   margin-left: 10px;
   color: white;
 }
 .experience{
   color: white;
-  width: 100%;
+  max-width: 93%;
   /* background-color: red; */
   margin-left: 10px;
   /* overflow: auto; */
